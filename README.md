@@ -1,2 +1,2 @@
 # caseify
-Phone case aaesthetic online shop
+Phone case aesthetic online shop
